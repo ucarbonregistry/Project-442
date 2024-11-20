@@ -89,4 +89,64 @@ which in turn is fed to the steam turbine to generate power. The overall busines
 with alcohol distillation and power generation. The power co-generation units generate
 biomass based power for captive consumption of the sugar plant and the sale of surplus power
 to the state grid. The project plant exports power to the Maharashtra State Electricity
-Transmission Company Limited (MSETCL), in ab
+Transmission Company Limited (MSETCL).
+___________
+
+ISSUANCE DATE: 20/11/2024
+
+QTY: 213678 CoUs
+_________________
+Serial Number: 0001-000001-003646-UCR-CoU-IN-442-02122014-31122014
+
+Vintage Year: 2014
+
+Quantity: 3646
+___________
+Serial Number: 0001-003647-048894-UCR-CoU-IN-442-01012015-31122015
+
+Vintage Year: 2015
+
+Quantity: 45248
+___________
+Serial Number: 0001-048895-068330-UCR-CoU-IN-442-01012016-31122016
+
+Vintage Year: 2016
+
+Quantity: 19436
+____________
+Serial Number: 0001-068331-080329-UCR-CoU-IN-442-01012017-31122017
+
+Vintage Year:2017
+
+Quantity:11999
+___________
+Serial Number: 0001-080330-117215-UCR-CoU-IN-442-01012018-31122018
+
+Vintage Year: 2018
+
+Quantity: 36886
+__________
+Serial Number: 0001-117216-140888-UCR-CoU-IN-442-01012019-31122019
+
+Vintage Year: 2019
+
+Quantity: 23673
+___________
+Serial Number: 0001-140889-165483-UCR-CoU-IN-442-01012020-31122020
+
+Vintage Year:2020
+
+Quantity: 24595
+_____________
+Serial Number: 0001-165484-186663-UCR-CoU-IN-442-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 21180
+____________
+Serial Number: 0001-186664-213678-UCR-CoU-IN-442-01012022-31122022
+
+Vintage Year:2022
+
+Quantity:27015
+____________
